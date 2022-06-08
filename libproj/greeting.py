@@ -3,4 +3,4 @@
 
 def greeting(name: str):
     """Print a simple greeting with the name."""
-    print(f"Welcome {name}!")
+    print(f"Welcome {name} in Poland!")
