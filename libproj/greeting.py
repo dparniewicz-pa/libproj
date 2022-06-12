@@ -5,7 +5,7 @@ from sympy import symbols
 
 def greeting(name: str):
     """Print a simple greeting with the name."""
-    print(f"Welcome {name} in Poland!")
+    print(f"Welcome {name} in Warsaw!")
 
 def expresion(a, b):
     """Method only to check if library is properly installed"""
